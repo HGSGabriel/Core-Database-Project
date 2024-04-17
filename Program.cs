@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("I LOVE GITHUB I LOVE GITHUB I LOVE GITHUB I LOVE GITHUB I LOVE GITHUB I LOVE GITHUB I LOVE GITHUB I LOVE GITHUB");
         }
     }
 }
